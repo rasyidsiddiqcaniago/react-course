@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>My First Heading</h1>
+      <h1>My Second Heading</h1>
       <p>My first paragraph.</p>
     </div>
   );
